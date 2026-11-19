@@ -13,15 +13,15 @@ scanf("%c",&ch);
 switch(ch)
 {
 case '+':
-printf("%d", a+b)
+printf("%d", a+b);
 break;
 case'*':
-printf("%d",a*b)
+printf("%d",a*b);
 case'-':
 if(a>b)
 printf("sub=%d",(a-b));
 else
-printf("sub=%d",(b-a)):
+printf("sub=%d",(b-a));
 break;
 default:
  
